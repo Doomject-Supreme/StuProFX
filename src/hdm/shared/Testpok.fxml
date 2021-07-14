@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16">
+   <children>
+      <Pane layoutX="-6.0" layoutY="-6.0" prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <Rectangle id="rect1" arcHeight="50.0" arcWidth="50.0" fill="#79d8c1" height="72.0" layoutX="36.0" layoutY="100.0" stroke="TRANSPARENT" strokeType="INSIDE" width="73.0">
+               <effect>
+                  <DropShadow />
+               </effect>
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Rectangle>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

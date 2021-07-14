@@ -1,0 +1,81 @@
+TrashAPP™️
+
+Done:
++ Array with students
++ Sort ranking by points
++ ID check
++ ID hashing
++ Known ID doesn’t create new account 
++ Nickname check
++ sysout entire Array
++ sysout first 5 by score
++ Read from saved document
++ Saving system into document
++ ID read from NFC tag reader
++ Reading the out.txt from correct package
++ Basic VLCj playback after action
++ Playback function VLCj
+	don't start a new video when the old one is still playing
+	Fullscreen
+	Stand-By mode on/off
++ Nickname random generator
+	substantives
++ UI Nickname after registration
++ Window switching
++ Hall sensor detection
++ InputLine regexing single input from sensors and rfid tag
++ Points system
+	Videoplayback for "existingStudent"
+	Videoplayback for "newStudent"
++ regexing five sensor outputs to differentiate
++ Timeout BIN doesn't play video
++ Points system
+	Only to those who used camera and card
++ Camera trigger
++ Picture saving and counting
++ InfoPanel
+	temperature Stuttgart
+	cyclists today 	https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/607?withNull=true&begin=21%2F05%2F2021&end=22%2F05%2F2021&pratiques=2
+	saved food https://foodsharing.de/statistik
++ Picture renaming with Hall-Sensor
++ Automated photoCounter input from folder	
++ Picture timeout (gonna do the same as in bin timeout)
++ Nickname random generator
+	format --> adjektiv_ADJEKTIV_ANIMAL?
+	implemented: adjective_animal
++ Movement detector hardware
++ Log for console sysouts
++ LEDs for photo
++ Only video without point
++ silence.mp4 make Black
++ Log for users
++ Refresh after video finished takes too long because of info from the internet
++ Crash-Wallpaper
+
+
+
+In Development:
+!! UI Ranking
+	+ first time UI
+	+ Ranking General & Weekly & Recent
+	- Can we make positive feedback more apparent? 
+	- Interesting info?
+!! Power off
+	+ Timeout after 15 Minutes
+	- Triggering mechanism for the TV
+	- Turn TV on again
+	 
+
+
+To-Do:
+- All videos into assets/Videos
+- Power and Internet
+- autostart bullshit :)
+
+
+	
+Ideas:
+??event based programming??
+??ewiger Leaderboard??
+??rewrite in useful language like python??
+??reset jeden Monat??

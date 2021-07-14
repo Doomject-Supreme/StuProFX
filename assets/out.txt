@@ -1,0 +1,2 @@
+id=-1058885769 nickname=KebabMan clan=Paper_Hands points=200
+id=1220081298 nickname=Simplistic_Dormouse clan=Trashboi points=8
